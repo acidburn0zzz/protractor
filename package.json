@@ -48,7 +48,7 @@
     "gulp-tslint": "^7.0.1",
     "jshint": "^2.9.2",
     "lodash": "^4.5.1",
-    "marked": "^0.3.3",
+    "marked": "^4.0.10",
     "mocha": "2.5.3",
     "rimraf": "~2.5.3",
     "run-sequence": "^1.1.5",
